@@ -26,6 +26,6 @@ schedule.every().day.at(wakeupTime).do(job)
 
 while 1:
     schedule.run_pending()
-    time.sleep(1)
+    time.sleep(59)
 
 
