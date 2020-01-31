@@ -6,4 +6,4 @@ To schedule an alarm:
   python playsong.py Hours:Minutes
   
   Example: 
-    <code>python playsong.py 7:30</code>
+    <code>python playsong.py 07:30</code>
